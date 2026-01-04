@@ -1,6 +1,6 @@
-# **📌 Project Title**
 
-Customer Segmentation Using Python | Machine Learning Internship Project
+
+# **Customer Segmentation Using Python | Machine Learning Internship Project**
 
 ## **📌 Project Description**
 
